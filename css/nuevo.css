@@ -36,7 +36,7 @@ h2 {
 
 h3 {
     text-transform: uppercase;
-    color: brown;
+    color: hsl(0, 59%, 41%);
     font-weight: bold;
     padding: 20px 5px;
     text-align: center;
